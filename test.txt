@@ -4,3 +4,4 @@ hive flink kylin
 oozie hbase kudu es
 kafka storm sqoop hue
 add new feature
+add bug fixed
