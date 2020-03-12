@@ -1,0 +1,5 @@
+hadoop
+hdfs spark
+hive flink kylin
+oozie hbase kudu es
+kafka storm sqoop hue
